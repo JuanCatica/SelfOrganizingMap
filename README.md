@@ -3,7 +3,7 @@
 # Documentación
 
  BLABLABLABLA
-* [Descripción g](#Objetivo-de-Negocio)
+* [Descripción g](#Descripción-G)
 * Objetivo de Negocio
 * Objetivos sec
 * Arquitectura
